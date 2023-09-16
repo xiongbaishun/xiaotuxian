@@ -1,5 +1,5 @@
 <template>
-    <div>我是首页2223
+    <div>我是dev首页
             <!-- 二级路由出口 -->
     <RouterView />
     </div>
