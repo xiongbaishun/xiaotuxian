@@ -7,6 +7,7 @@
    <RouterView />
    <div class="test">
     test scss  dfsdfds 
+    数万巴库
    </div>
 </template>
 
